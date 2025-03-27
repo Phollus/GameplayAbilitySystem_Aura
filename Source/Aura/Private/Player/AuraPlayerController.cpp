@@ -71,7 +71,7 @@ void AAuraPlayerController::CursorTrace()
 			}
 			else
 			{
-				// Case E - do nohting
+				// Case E - do nothing
 			}
 		}
 	}
